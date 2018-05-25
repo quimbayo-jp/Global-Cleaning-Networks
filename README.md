@@ -2,7 +2,7 @@
 
 The data sets available here are parts of the following article:
 
-Quimbayo JP, Cantor M, Dias MS, Grutter AS, Gingins S, Becker JHA, Floeter SR.The global structure of marine cleaning mutualism
+Quimbayo JP, Cantor M, Dias MS, Grutter AS, Gingins S, Becker JHA, Floeter SR. The global structure of marine cleaning mutualism. Global Ecology and Biogeographic. 
 
 
 Description
