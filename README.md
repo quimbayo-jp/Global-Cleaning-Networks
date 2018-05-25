@@ -1,7 +1,5 @@
 # Global-Cleaning-Networks
 
-# Global-Cleaning-Networks
-
 The data sets available here are parts of the following article:
 
 The global structure of marine cleaning mutualism
