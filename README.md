@@ -10,15 +10,15 @@ Description
 We combined field and literature data to test if recurrent patterns in mutualistic networks—nestedness,
 modularity—describe the distributions of marine cleaning interactions. Nested network structures suggest 
 some cleaner species interact with many clients while the others clean fewer, predictable subsets of these clients; 
-modular network structures suggest cleaners and clients interact within defined, densely-connected subsets of species. 
+modular network structures suggest cleaners and clients interact with defined, densely-connected subsets of species. 
 
 All datasets are binary matrices indicating cleaning interaction between cleaner species (columns) 
 and client species (rows) in 28 marine habitats across of 11 marine biogeographical provinces defined for reef fish fauna.
-These were These were the Caribbean, the Southwestern, Central, North and Eastern Atlantic, the Western Indian,
+These were the Caribbean, the Southwestern, Central, North and Eastern Atlantic, the Western Indian,
 the Central Indo-Pacific and the Southwestern, Central, Northeastern and Tropical Eastern Pacific.
 
-Each element of these matrices is = 1 when the cleaner species i interacts with the client species j, 
-and  = 0 otherwise. A cleaning event is defined as the observation of a cleaner removing ectoparasites, 
+Each element of these matrices equals 1 when the cleaner species i interacts with the client species j, 
+and 0 otherwise. A cleaning event is defined as the observation of a cleaner removing ectoparasites, 
 diseased tissue, and/or mucus from the body surface, gills or buccal cavity of the clients.
 
 Data are provided in the form of comma separated values files (csv), one for each of the 28 localities.
